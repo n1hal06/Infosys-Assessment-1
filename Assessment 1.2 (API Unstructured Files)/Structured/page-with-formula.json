@@ -1,0 +1,1041 @@
+-[
+  {
+    "type": "NarrativeText",
+    "element_id": "7581b3e14a56c276896da707704c221e",
+    "text": "output values. These are concatenated and once again projected, resulting in the final values, as depicted in Figure 2.",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            108.0,
+            74.15232159999994
+          ],
+          [
+            108.0,
+            95.0239216
+          ],
+          [
+            503.9972105879998,
+            95.0239216
+          ],
+          [
+            503.9972105879998,
+            74.15232159999994
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "links": [
+        {
+          "text": "2",
+          "url": "figure.2",
+          "start_index": 116
+        }
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f0b9e258d134a12434aaa080638e9de",
+    "text": "Multi-head attention allows the model to jointly attend to information from different representation subspaces at different positions. With a single attention head, averaging inhibits this.",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            108.0,
+            101.44932159999996
+          ],
+          [
+            108.0,
+            122.32092160000002
+          ],
+          [
+            503.9970113359999,
+            122.32092160000002
+          ],
+          [
+            503.9970113359999,
+            101.44932159999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cd71ae7e1f8c01d99eef3c6336709042",
+    "text": "MultiHead(Q,K,V ) = Concat(head1,...,headh)W O",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            186.94,
+            145.6481171999999
+          ],
+          [
+            186.94,
+            158.22991719999993
+          ],
+          [
+            410.92153482,
+            158.22991719999993
+          ],
+          [
+            410.92153482,
+            145.6481171999999
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "7f8ee935b04434c7d7a9f02afdfb874c",
+    "text": "where headi = Attention(QW Q",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            224.49699999999996,
+            161.78511719999983
+          ],
+          [
+            224.49699999999996,
+            175.04091719999985
+          ],
+          [
+            358.44732786,
+            175.04091719999985
+          ],
+          [
+            358.44732786,
+            161.78511719999983
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "57ffa33f154a625aae38b8a99eb0d16a",
+    "text": "i ,KW K i",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            350.78899999999993,
+            162.4591171999997
+          ],
+          [
+            350.78899999999993,
+            176.32291719999978
+          ],
+          [
+            390.03415061999993,
+            176.32291719999978
+          ],
+          [
+            390.03415061999993,
+            162.4591171999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "baa685c640d5ef20dba428271c2f62b3",
+    "text": ",V W V",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            391.0209999999999,
+            162.4591171999997
+          ],
+          [
+            391.0209999999999,
+            174.1257443999998
+          ],
+          [
+            418.97152547999985,
+            174.1257443999998
+          ],
+          [
+            418.97152547999985,
+            162.4591171999997
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b8dde388acb2e25a19efd1d35c534ed1",
+    "text": "i )",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            412.88299999999987,
+            164.16314439999974
+          ],
+          [
+            412.88299999999987,
+            176.0089171999997
+          ],
+          [
+            425.0604551399999,
+            176.0089171999997
+          ],
+          [
+            425.0604551399999,
+            164.16314439999974
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12a3f945fcc10083ac444113b64de288",
+    "text": "Where the projections are parameter matrices W Q and W O \u2208 Rhdv\u00d7dmodel.",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            107.532,
+            202.90011719999995
+          ],
+          [
+            107.532,
+            227.6919216
+          ],
+          [
+            302.96132786,
+            227.6919216
+          ],
+          [
+            302.96132786,
+            202.90011719999995
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "b8dde388acb2e25a19efd1d35c534ed1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "884fa582a450de339c7dcf0eca21c42a",
+    "text": "i \u2208 Rdmodel\u00d7dk, W K",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            295.304,
+            203.34539999999993
+          ],
+          [
+            295.304,
+            217.4379171999999
+          ],
+          [
+            377.31615062000003,
+            217.4379171999999
+          ],
+          [
+            377.31615062000003,
+            203.34539999999993
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d48ee77874be81975ab2c837501e5dff",
+    "text": "i \u2208 Rdmodel\u00d7dk, W V",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            369.238,
+            203.34540000000004
+          ],
+          [
+            369.238,
+            217.25391719999993
+          ],
+          [
+            450.16952548,
+            217.25391719999993
+          ],
+          [
+            450.16952548,
+            203.34540000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6bf4252ac3ff03dbb2b1366178203fe",
+    "text": "i \u2208 Rdmodel\u00d7dv",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            444.081,
+            203.34540000000004
+          ],
+          [
+            444.081,
+            217.25391719999993
+          ],
+          [
+            502.82449486,
+            217.25391719999993
+          ],
+          [
+            502.82449486,
+            203.34540000000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "d48ee77874be81975ab2c837501e5dff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1bb13fc3afd437fd2f624fa70f647d7d",
+    "text": "In this work we employ h = 8 parallel attention layers, or heads. For each of these we use dk = dv = dmodel/h = 64. Due to the reduced dimension of each head, the total computational cost is similar to that of single-head attention with full dimensionality.",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            108.0,
+            233.89814439999998
+          ],
+          [
+            108.0,
+            265.8989216
+          ],
+          [
+            504.00182671200014,
+            265.8989216
+          ],
+          [
+            504.00182671200014,
+            233.89814439999998
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "d48ee77874be81975ab2c837501e5dff"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c10aaa7bd4e8b87c5c960afe5d20ff92",
+    "text": "3.2.3 Applications of Attention in our Model",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            108.0,
+            280.0385834
+          ],
+          [
+            108.0,
+            290.0011834
+          ],
+          [
+            302.8584934,
+            290.0011834
+          ],
+          [
+            302.8584934,
+            280.0385834
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d70b247879d0490c4c584b9f862e825",
+    "text": "The Transformer uses multi-head attention in three different ways:",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            107.691,
+            299.1623215999999
+          ],
+          [
+            107.691,
+            309.12492159999994
+          ],
+          [
+            372.60649660000007,
+            309.12492159999994
+          ],
+          [
+            372.60649660000007,
+            299.1623215999999
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "c10aaa7bd4e8b87c5c960afe5d20ff92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3f08951f4249885ffff0a3867248179b",
+    "text": "In \"encoder-decoder attention\" layers, the queries come from the previous decoder layer, and the memory keys and values come from the output of the encoder. This allows every position in the decoder to attend over all positions in the input sequence. This mimics the typical encoder-decoder attention mechanisms in sequence-to-sequence models such as [38, 2, 9].",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            135.397,
+            320.0063216
+          ],
+          [
+            135.397,
+            373.6059216
+          ],
+          [
+            505.24178082399993,
+            373.6059216
+          ],
+          [
+            505.24178082399993,
+            320.0063216
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "links": [
+        {
+          "text": "38",
+          "url": "cite.wu2016google",
+          "start_index": 354
+        },
+        {
+          "text": "2",
+          "url": "cite.bahdanau2014neural",
+          "start_index": 358
+        },
+        {
+          "text": "9",
+          "url": "cite.JonasFaceNet2017",
+          "start_index": 361
+        }
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "c10aaa7bd4e8b87c5c960afe5d20ff92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "94df2c25f01f24e13da6e367e093efaa",
+    "text": "The encoder contains self-attention layers. In a self-attention layer all of the keys, values and queries come from the same place, in this case, the output of the previous layer in the encoder. Each position in the encoder can attend to all positions in the previous layer of the encoder.",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            135.39700000000002,
+            379.47932160000005
+          ],
+          [
+            135.39700000000002,
+            422.1689216
+          ],
+          [
+            504.00341968139986,
+            422.1689216
+          ],
+          [
+            504.00341968139986,
+            379.47932160000005
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "c10aaa7bd4e8b87c5c960afe5d20ff92"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b25ca1bd5ad13e2e046701e74ff38e40",
+    "text": "Similarly, self-attention layers in the decoder allow each position in the decoder to attend to all positions in the decoder up to and including that position. We need to prevent leftward information flow in the decoder to preserve the auto-regressive property. We implement this inside of scaled dot-product attention by masking out (setting to \u2212\u221e) all values in the input of the softmax which correspond to illegal connections. See Figure 2.",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            135.39700000000002,
+            428.04232160000004
+          ],
+          [
+            135.39700000000002,
+            481.64092159999996
+          ],
+          [
+            504.003130766,
+            481.64092159999996
+          ],
+          [
+            504.003130766,
+            428.04232160000004
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "links": [
+        {
+          "text": "2",
+          "url": "figure.2",
+          "start_index": 442
+        }
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "c10aaa7bd4e8b87c5c960afe5d20ff92"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "49783f545b113482c782a90e6f610bb8",
+    "text": "3.3 Position-wise Feed-Forward Networks",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            108.00000000000001,
+            497.12658339999996
+          ],
+          [
+            108.00000000000001,
+            507.08918339999997
+          ],
+          [
+            292.86600560000005,
+            507.08918339999997
+          ],
+          [
+            292.86600560000005,
+            497.12658339999996
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "06c9ebef52b0fdb1bcff0058cc78471b",
+    "text": "In addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully connected feed-forward network, which is applied to each position separately and identically. This consists of two linear transformations with a ReLU activation in between.",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            108.0,
+            517.5953216
+          ],
+          [
+            108.0,
+            549.3759216
+          ],
+          [
+            504.34271355599975,
+            549.3759216
+          ],
+          [
+            504.34271355599975,
+            517.5953216
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "49783f545b113482c782a90e6f610bb8"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d08dc364e83e6395cc202d3bedbd92aa",
+    "text": "FFN(x) = max(0,xW1 + b1)W2 + b2",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            226.901,
+            567.9041444
+          ],
+          [
+            226.901,
+            578.7809172
+          ],
+          [
+            384.6015791000001,
+            578.7809172
+          ],
+          [
+            384.6015791000001,
+            567.9041444
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "49783f545b113482c782a90e6f610bb8"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "93809163645d98d16c899470797bb3bc",
+    "text": "(2)",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            493.0510000000001,
+            568.1233216
+          ],
+          [
+            493.0510000000001,
+            578.0859216
+          ],
+          [
+            504.6673916000001,
+            578.0859216
+          ],
+          [
+            504.6673916000001,
+            568.1233216
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "49783f545b113482c782a90e6f610bb8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "70016be40648e36bc9d2b9b9b7613bfd",
+    "text": "While the linear transformations are the same across different positions, they use different parameters from layer to layer. Another way of describing this is as two convolutions with kernel size 1. The dimensionality of input and output is dmodel = 512, and the inner-layer has dimensionality dff = 2048.",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            107.532,
+            589.9093216
+          ],
+          [
+            107.532,
+            633.2949172
+          ],
+          [
+            505.7450491319996,
+            633.2949172
+          ],
+          [
+            505.7450491319996,
+            589.9093216
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "49783f545b113482c782a90e6f610bb8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f1bd60eb761bba59cdbdcd3f00ecd10e",
+    "text": "3.4 Embeddings and Softmax",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            108.0,
+            648.0845834
+          ],
+          [
+            108.0,
+            658.0471834
+          ],
+          [
+            240.02437520000004,
+            658.0471834
+          ],
+          [
+            240.02437520000004,
+            648.0845834
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "65bfc591bfe9b5b267cdba5557b01313",
+    "text": "Similarly to other sequence transduction models, we use learned embeddings to convert the input tokens and output tokens to vectors of dimension dmodel. We also use the usual learned linear transfor- mation and softmax function to convert the decoder output to predicted next-token probabilities. In our model, we share the same weight matrix between the two embedding layers and the pre-softmax dmodel. linear transformation, similar to [30]. In the embedding layers, we multiply those weights by",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            108.0,
+            668.5533216
+          ],
+          [
+            108.0,
+            723.0003408
+          ],
+          [
+            505.743837,
+            723.0003408
+          ],
+          [
+            505.743837,
+            668.5533216
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "links": [
+        {
+          "text": "30",
+          "url": "cite.press2016using",
+          "start_index": 439
+        }
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "f1bd60eb761bba59cdbdcd3f00ecd10e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ba39d029c21581fd00f99ef5a9498850",
+    "text": "\u221a",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            471.882,
+            704.2621444
+          ],
+          [
+            471.882,
+            714.2247444
+          ],
+          [
+            480.18383458,
+            714.2247444
+          ],
+          [
+            480.18383458,
+            704.2621444
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf",
+      "parent_id": "f1bd60eb761bba59cdbdcd3f00ecd10e"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8db3e9e959fa5b11744941c1a331e208",
+    "text": "5",
+    "metadata": {
+      "coordinates": {
+        "points": [
+          [
+            303.509,
+            742.0773216
+          ],
+          [
+            303.509,
+            752.0399216
+          ],
+          [
+            308.4903,
+            752.0399216
+          ],
+          [
+            308.4903,
+            742.0773216
+          ]
+        ],
+        "system": "PixelSpace",
+        "layout_width": 612.0,
+        "layout_height": 792.0
+      },
+      "file_directory": "C:\\Users\\Sanjai DL\\Desktop\\nihal\\s3-small-batch-output\\downloads",
+      "filename": "page-with-formula.pdf",
+      "last_modified": "2025-09-25T18:33:26",
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filetype": "application/pdf"
+    }
+  }
+]
